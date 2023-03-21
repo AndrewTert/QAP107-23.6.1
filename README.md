@@ -2,6 +2,7 @@
 Для работы необходимо установить библиотеки Requests, Pytelegrambotapi
 
 pip install requests
+
 pip install pytelegrambotapi
 
 Telegram-бот, с функционалом:
